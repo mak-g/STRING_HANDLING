@@ -1,5 +1,6 @@
 package question11;
 
-public class Question11 {
+import java.util.Scanner;
 
+public class Question11 {
 }
