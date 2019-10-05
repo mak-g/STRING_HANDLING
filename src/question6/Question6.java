@@ -6,5 +6,6 @@ public class Question6 {
         Scanner s = new Scanner(System.in);
         String upper = s.nextLine().trim();
         System.out.println(upper.toUpperCase());
+
     }
 }
